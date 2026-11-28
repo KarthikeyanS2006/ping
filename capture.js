@@ -7,7 +7,8 @@ const sites = [
   { name: 'srikeyan-mail', url: 'https://srikeyanmail.gt.tc/' },
   { name: 'srikeyan-drive', url: 'https://srikeyandrive.gt.tc/' },
   { name: 'srikeyan-docs', url: 'https://srikeyanword.gt.tc/' },
-  { name: 'n8n', url: 'https://karthikeyans2006-n8n.hf.space/'}
+  { name: 'n8n', url: 'https://karthikeyans2006-n8n.hf.space/'},
+  { name: 'Anythingsllm' , url: 'https://karthikeyans2006-n8n1.hf.space/'}
 ];
 
 (async () => {
